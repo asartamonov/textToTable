@@ -15,5 +15,5 @@ JAR
 =========
 You can download jar <a href="https://goo.gl/flN2U7">here</a>
 and use it to format your own data:
-place files all together and call report generator
-like java -jar Generator.jar settings.xml source-data.tsv output-report.txt
+</br>place files all together and call report generator like
+</br> *java -jar Generator.jar settings.xml source-data.tsv output-report.txt*
