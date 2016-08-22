@@ -62,3 +62,15 @@ Example
 |          |         | Кобылин |
 |          |         | а       |
 +----------+---------+---------+
+
+<div class="highlight highlight-source-shell"><pre>+--------------+--------------+--------------+--------------+-------------+
+<span class="pl-k">|</span>NAME          <span class="pl-k">|</span>GENDER        <span class="pl-k">|</span>MARRIED       <span class="pl-k">|</span>           AGE<span class="pl-k">|</span>    SALARY($)<span class="pl-k">|</span>
++--------------+--------------+--------------+--------------+-------------+
+<span class="pl-k">|</span>Eddy          <span class="pl-k">|</span>Male          <span class="pl-k">|</span>No            <span class="pl-k">|</span>            23<span class="pl-k">|</span>      1200.27<span class="pl-k">|</span>
+<span class="pl-k">|</span>Libby         <span class="pl-k">|</span>Male          <span class="pl-k">|</span>No            <span class="pl-k">|</span>            17<span class="pl-k">|</span>       800.50<span class="pl-k">|</span>
+<span class="pl-k">|</span>Rea           <span class="pl-k">|</span>Female        <span class="pl-k">|</span>No            <span class="pl-k">|</span>            30<span class="pl-k">|</span>     10000.00<span class="pl-k">|</span>
+<span class="pl-k">|</span>Deandre       <span class="pl-k">|</span>Female        <span class="pl-k">|</span>No            <span class="pl-k">|</span>            19<span class="pl-k">|</span>     18000.50<span class="pl-k">|</span>
+<span class="pl-k">|</span>Alice         <span class="pl-k">|</span>Male          <span class="pl-k">|</span>Yes           <span class="pl-k">|</span>            29<span class="pl-k">|</span>       580.40<span class="pl-k">|</span>
+<span class="pl-k">|</span>Alyse         <span class="pl-k">|</span>Female        <span class="pl-k">|</span>No            <span class="pl-k">|</span>            26<span class="pl-k">|</span>      7000.89<span class="pl-k">|</span>
+<span class="pl-k">|</span>Venessa       <span class="pl-k">|</span>Female        <span class="pl-k">|</span>No            <span class="pl-k">|</span>            22<span class="pl-k">|</span>    100700.50<span class="pl-k">|</span>
++--------------+--------------+--------------+--------------+-------------+</pre></div>
